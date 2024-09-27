@@ -24,7 +24,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -50,13 +50,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cursyy/Cursyy/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Cursyy.Cursyy&left_color=darkblue&right_color=blue&left_text=Views"  />
-
-###
 [![](https://visitcount.itsvg.in/api?id=Cursyy&icon=2&color=12)](https://visitcount.itsvg.in)
+
+###
