@@ -22,19 +22,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Cursyy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cursyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cursyy&count_private=true&show_icons=true&theme=dark)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cursyy&count_private=true&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&hide=html,css)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Cursyy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=Cursyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Cursyy&icon=2&color=12)](https://visitcount.itsvg.in)
+![](https://github-profile
