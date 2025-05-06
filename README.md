@@ -3,15 +3,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/oleksandr-kurilets-020171272" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/cursyy_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/20316607" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
-  </a>
+![](https://github-readme-stats.vercel.app/api?username=cursyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cursyy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cursyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ###
