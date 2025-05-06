@@ -63,8 +63,5 @@ I’m **Cursyy**, a coding enthusiast who loves diving into new challenges and b
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=cursyy&icon=0&color=0" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=cursyy&color=lightgrey)
+
