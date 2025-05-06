@@ -62,7 +62,3 @@ I’m **Cursyy**, a coding enthusiast who loves diving into new challenges and b
 </p>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=cursyy)
-
-
