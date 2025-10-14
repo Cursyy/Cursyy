@@ -1,64 +1,55 @@
-# 💫 About Me
-Hey there! 👋  
-I’m **Cursyy**, a coding enthusiast who loves diving into new challenges and building cool stuff. I’m passionate about clean code, innovative solutions, and contributing to awesome open-source projects. 🚀
+<!-- ===============================
+      ⚡ GITHUB PROFILE README ⚡
+     Author: cursyy
+     Style: Purple Neon Hacker
+     =============================== -->
 
-## What am I working on? 🤔
-- Building projects
-- Exploring new technologies and frameworks 💻
-
----
-
-## 🌐 Socials
 <p align="center">
-  <a href="https://discord.gg/cursyy_"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/oleksandr-kurilets-020171272/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=180&section=header&text=cursyy&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-</p>
+<h3 align="center">👨‍💻 Full-stack engineer | IoT | Python developer </h3>
+<p align="center">I build intelligent, connected systems that make healthcare smarter, faster, and more human.</p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cursyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cursyy&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+### ⚙️ About Me
+<div>
+  <pre>
+<span style="color:#22c55e;">$</span> whoami
+<span style="color:#c084fc;">Full-stack Engineer | IoT | Python Developer</span>
+<span style="color:#22c55e;">$</span> echo "About Me"
+<span style="color:#a78bfa;">Obsessed with clean design, edge computing, and hacking prototypes.</span>
+<span style="color:#22c55e;">$</span> _
+  </pre>
+</div>
 
----
+### 🚀 Highlight Project
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+### 🧠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,js,html,css,git,linux,docker,sqlite,aws" /> </p>
 
----
+### 🧰 Tools & Skills
+  - 🧩 Python / Django / FastAPI – scalable REST APIs & IoT data pipelines
+  - ⚙️ React + Tailwind + Bootstrap – sleek, responsive dashboards
+  - 📡 Raspberry Pi + MQTT + Vosk – intelligent, modular IoT systems
+  - ☁️ AWS / Docker / CI/CD – deploy anywhere, scale easily
+  - 🖥️ Linux / Windows / macOS – versatile OS environments
+  - 🎨 Figma – rapid UI prototyping
 
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=cursyy&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
 
----
+### ⚡ GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cursyy&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8B5CF6&title_color=8B5CF6" height="160" /></p>
+
+### 📊 Top Languages
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursyy&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6" /> </p>
+
+### 🧑‍🚀 Contact
+<p align="center"> <a href="mailto:kurilets.o.v@gmail.com"><img src="https://img.shields.io/badge/Email-kurilets.o.v@gmail.com-6D28D9?style=for-the-badge&logo=gmail"></a> <a href="https://linkedin.com/in/cursyy"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin"></a> <a href="https://github.com/cursyy"><img src="https://img.shields.io/badge/GitHub-@cursyy-6D28D9?style=for-the-badge&logo=github"></a> </p>
+
+### 🧩 Fun Fact
+“The most powerful prototypes are the ones built overnight.”
+— cursyy
+
+<p align="center"> <a href="https://www.buymeacoffee.com/cursyy"><img src="https://img.shields.io/badge/☕-Buy_me_a_coffee-8B5CF6?style=for-the-badge"></a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer" /> </p>
