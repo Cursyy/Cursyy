@@ -9,7 +9,6 @@
 </p>
 
 <h3 align="center">👨‍💻 Full-stack engineer | IoT | Python developer </h3>
-<p align="center">I build intelligent, connected systems that make healthcare smarter, faster, and more human.</p>
 
 ---
 
